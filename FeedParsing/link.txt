@@ -1,0 +1,13 @@
+http://www.economist.com/feeds/print-sections/77729/china.xml
+http://www.economist.com/feeds/print-sections/71/united-states.xml
+http://www.economist.com/feeds/print-sections/76/britain.xml
+http://www.economist.com/feeds/print-sections/74/international.xml
+http://www.economist.com/feeds/print-sections/72/the-americas.xml
+http://www.economist.com/feeds/print-sections/79/finance-and-economics.xml
+http://www.economist.com/feeds/print-sections/80/science-and-technology.xml
+http://www.economist.com/feeds/print-sections/75/europe.xml
+http://www.economist.com/feeds/print-sections/89/books-and-arts.xml
+http://www.economist.com/feeds/print-sections/84/indicators.xml
+http://www.economist.com/blogs/gametheory/index.xml
+http://www.economist.com/blogs/globalleadership/index.xml
+
